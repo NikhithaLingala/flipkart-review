@@ -1,4 +1,4 @@
-joblib==1.4.2
+joblib
 streamlit==1.53.1
 numpy
 pandas
@@ -8,4 +8,5 @@ regex
 altair
 pydeck
 pillow
+
 
