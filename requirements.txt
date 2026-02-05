@@ -1,0 +1,10 @@
+joblib
+streamlit==1.53.1
+numpy
+pandas
+scikit-learn==1.6.1
+nltk
+regex
+altair
+pydeck
+pillow
