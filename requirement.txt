@@ -7,5 +7,5 @@ nltk
 regex
 altair
 pydeck
-
 pillow
+
